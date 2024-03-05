@@ -1,3 +1,7 @@
+/**
+ * Package for Task
+ * @package Task
+ */
 package Task;
 
 import Task.Objects.Car;
@@ -8,7 +12,9 @@ import Task.Filters.StringContainsFilter;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * Client class
+ */
 public class Main {
     public static void main(String[] args) {
 
